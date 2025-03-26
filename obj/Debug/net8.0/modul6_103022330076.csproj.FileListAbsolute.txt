@@ -1,0 +1,15 @@
+C:\Users\sxpix\Downloads\MODUL6\cODE\modul6_103022330076\obj\Debug\net8.0\modul6_103022330076.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sxpix\Downloads\MODUL6\cODE\modul6_103022330076\obj\Debug\net8.0\modul6_103022330076.AssemblyInfoInputs.cache
+C:\Users\sxpix\Downloads\MODUL6\cODE\modul6_103022330076\obj\Debug\net8.0\modul6_103022330076.AssemblyInfo.cs
+C:\Users\sxpix\Downloads\MODUL6\cODE\modul6_103022330076\obj\Debug\net8.0\modul6_103022330076.csproj.CoreCompileInputs.cache
+C:\Users\sxpix\Downloads\MODUL6\cODE\modul6_103022330076\obj\Debug\net8.0\modul6_103022330076.sourcelink.json
+C:\Users\sxpix\Downloads\MODUL6\cODE\modul6_103022330076\bin\Debug\net8.0\modul6_103022330076.exe
+C:\Users\sxpix\Downloads\MODUL6\cODE\modul6_103022330076\bin\Debug\net8.0\modul6_103022330076.deps.json
+C:\Users\sxpix\Downloads\MODUL6\cODE\modul6_103022330076\bin\Debug\net8.0\modul6_103022330076.runtimeconfig.json
+C:\Users\sxpix\Downloads\MODUL6\cODE\modul6_103022330076\bin\Debug\net8.0\modul6_103022330076.dll
+C:\Users\sxpix\Downloads\MODUL6\cODE\modul6_103022330076\bin\Debug\net8.0\modul6_103022330076.pdb
+C:\Users\sxpix\Downloads\MODUL6\cODE\modul6_103022330076\obj\Debug\net8.0\modul6_103022330076.dll
+C:\Users\sxpix\Downloads\MODUL6\cODE\modul6_103022330076\obj\Debug\net8.0\refint\modul6_103022330076.dll
+C:\Users\sxpix\Downloads\MODUL6\cODE\modul6_103022330076\obj\Debug\net8.0\modul6_103022330076.pdb
+C:\Users\sxpix\Downloads\MODUL6\cODE\modul6_103022330076\obj\Debug\net8.0\modul6_103022330076.genruntimeconfig.cache
+C:\Users\sxpix\Downloads\MODUL6\cODE\modul6_103022330076\obj\Debug\net8.0\ref\modul6_103022330076.dll
