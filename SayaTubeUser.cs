@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Reflection;
+using System.Diagnostics;
+
 
 public class SayaTubeUser
 {
@@ -7,10 +9,11 @@ public class SayaTubeUser
 	private List<SayaTubeVideo> uploadedVideos;
 	public String Username;
 
-    //Debug.Assert(Username != null, "Username tidak diperbolehkan null");
-    //Debug.Assert(Username.lenght <= 100, "Username tidak bisa melebihi 100 karakter");
+    
     public SayaTubeUser(String Username)
     {
+        Debug.Assert(Username != null, "Username tidak diperbolehkan null");
+        Debug.Assert(Username.Length <= 100, "Username tidak bisa melebihi 100 karakter");
         this.Username = Username;
         Random rand = new Random();
         this.id = rand.Next(10000, 99999);
@@ -30,6 +33,8 @@ public class SayaTubeUser
 
     public void AddVideo(SayaTubeVideo)
     {
+        Debug.Assert(Username != null, "Username tidak diperbolehkan null");
+        Debug.Assert(Username.Length <= 100, "Username tidak bisa melebihi 100 karakter");
         List<SayaTubeVideo> upload = new List<SayaTubeVideo>();
         SayaTubeVideo user = new SayaTubeVideo(null);
         upload.Add(new String(user.getTitle(), 0));

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\sxpix\\Downloads\\MODUL6\\cODE\\modul6_103022330076\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8420651C-F374-4571-9B89-789D528F00BA}|modul6_103022330076.csproj|c:\\users\\sxpix\\downloads\\modul6\\code\\modul6_103022330076\\sayatubeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8420651C-F374-4571-9B89-789D528F00BA}|modul6_103022330076.csproj|solutionrelative:sayatubeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8420651C-F374-4571-9B89-789D528F00BA}|modul6_103022330076.csproj|c:\\users\\sxpix\\downloads\\modul6\\code\\modul6_103022330076\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8420651C-F374-4571-9B89-789D528F00BA}|modul6_103022330076.csproj|solutionrelative:sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8420651C-F374-4571-9B89-789D528F00BA}|modul6_103022330076.csproj|c:\\users\\sxpix\\downloads\\modul6\\code\\modul6_103022330076\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8420651C-F374-4571-9B89-789D528F00BA}|modul6_103022330076.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SayaTubeVideo.cs",
+              "DocumentMoniker": "C:\\Users\\sxpix\\Downloads\\MODUL6\\cODE\\modul6_103022330076\\SayaTubeVideo.cs",
+              "RelativeDocumentMoniker": "SayaTubeVideo.cs",
+              "ToolTip": "C:\\Users\\sxpix\\Downloads\\MODUL6\\cODE\\modul6_103022330076\\SayaTubeVideo.cs",
+              "RelativeToolTip": "SayaTubeVideo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:49:38.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SayaTubeUser.cs",
+              "DocumentMoniker": "C:\\Users\\sxpix\\Downloads\\MODUL6\\cODE\\modul6_103022330076\\SayaTubeUser.cs",
+              "RelativeDocumentMoniker": "SayaTubeUser.cs",
+              "ToolTip": "C:\\Users\\sxpix\\Downloads\\MODUL6\\cODE\\modul6_103022330076\\SayaTubeUser.cs",
+              "RelativeToolTip": "SayaTubeUser.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:48:49.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sxpix\\Downloads\\MODUL6\\cODE\\modul6_103022330076\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\sxpix\\Downloads\\MODUL6\\cODE\\modul6_103022330076\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T08:44:28.362Z",
               "EditorCaption": ""
